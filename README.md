@@ -1,5 +1,5 @@
 ## How to run
-本参考是文章 -https://0x400.com/2020-08-29-dev-getting-started-with-sapui5.html 的代码，如下启动项目
+本仓库是文章 -https://0x400.com/2020-08-29-dev-getting-started-with-sapui5.html 的代码，如下启动项目
 ```shell
 npm install --global @ui5/cli
 ui5 use sapui5@latest
