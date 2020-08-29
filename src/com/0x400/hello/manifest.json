@@ -1,0 +1,7 @@
+{
+  "_version": "1.0.0",
+  "sap.app": {
+    "id": "com.0x400.hello",
+    "type": "application"
+  }
+}
