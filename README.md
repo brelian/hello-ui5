@@ -1,3 +1,12 @@
+## How to run
+本参考是文章 -https://0x400.com/2020-08-29-dev-getting-started-with-sapui5.html 的代码，如下启动项目
+```shell
+npm install --global @ui5/cli
+ui5 use sapui5@latest
+ui5 add sap.ui.core sap.m themelib_sap_belize
+npm start
+```
+
 ## 背景
 SAPUI5 官方文档有专门的一节是讲 SAPUI5 的开会环境的 - [Development Environment](https://sapui5.hana.ondemand.com/#/topic/7bb04e05f9484e1b95b38a2e48ecef4f)，按照官方文档介绍，搭建 SAPUI5 的开发环境主要有三种方式：
 
